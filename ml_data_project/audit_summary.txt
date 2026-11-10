@@ -1,0 +1,12 @@
+INSAT-3D NETCDF STRUCTURAL AUDIT
+========================================
+Expected calendar dates: 32
+Available date folders: 31
+NetCDF files found: 31
+Successfully inspected files: 31
+Failed files: 0
+Missing dates: ['20261027']
+Unexpected dates: []
+Files with schema differences: ['nices_cm4_20261005', 'nices_cm4_20261012', 'nices_cm4_20261013', 'nices_cm4_20261014', 'nices_cm4_20261015', 'nices_cm4_20261016', 'nices_cm4_20261017', 'nices_cm4_20261018', 'nices_cm4_20261019', 'nices_cm4_20261020', 'nices_cm4_20261021', 'nices_cm4_20261022', 'nices_cm4_20261023', 'nices_cm4_20261024', 'nices_cm4_20261025', 'nices_cm4_20261026', 'nices_cm4_20261028', 'nices_cm4_20261029', 'nices_cm4_20261030', 'nices_cm4_20261031', 'nices_cm4_20261101']
+
+ERRORS:
